@@ -1,4 +1,5 @@
 # 🧬 GeneInsight Studio
+👉 **Live Production Demo:** [Open GeneInsight Studio](https://gene-insight-studio-4xh4.vercel.app/)
 
 AI-powered genomics interpretation platform for modern biotech teams.
 
