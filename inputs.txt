@@ -1,0 +1,67 @@
+use the following inputs in the ui to see results
+1. Differential Gene Expression (RNA-seq)
+RNA-seq analysis of breast cancer tissue vs normal tissue.
+
+Upregulated genes:
+- BRCA1 (log2FC: +2.3)
+- TP53 (log2FC: +1.8)
+- MYC (log2FC: +2.7)
+
+Downregulated genes:
+- PTEN (log2FC: -1.5)
+- RB1 (log2FC: -1.2)
+
+Pathway enrichment:
+- Cell cycle regulation
+- DNA damage response
+
+Observation:
+High proliferation signature with possible loss of tumor suppression.
+
+2. Variant Analysis (DNA sequencing)
+Whole genome sequencing of patient sample.
+
+Detected variants:
+- BRCA2: frameshift mutation (likely pathogenic)
+- EGFR: L858R mutation
+- KRAS: wild type
+
+Allele frequency:
+- BRCA2 mutation present at 45%
+
+Observation:
+Possible hereditary cancer predisposition with actionable mutation.
+
+3. Infectious Disease Genomics (Africa + EU relevance)
+Sequencing of bacterial isolate from blood sample.
+
+Findings:
+- Presence of antibiotic resistance genes (blaCTX-M)
+- Mutations in gyrA associated with fluoroquinolone resistance
+
+Pathogen identified:
+- Escherichia coli
+
+Observation:
+Multidrug-resistant strain detected, likely hospital-acquired infection.
+
+4. CRISPR Experiment
+CRISPR-Cas9 knockout experiment targeting TP53 gene in cell line.
+
+Results:
+- Successful knockout confirmed by sequencing
+- Increased cell proliferation observed
+- Reduced apoptosis markers
+
+Observation:
+Loss of TP53 function leads to uncontrolled cell growth.
+
+5. Drug Response / Pharmacogenomics
+Patient genomic profiling before chemotherapy.
+
+Findings:
+- CYP2D6 poor metabolizer genotype
+- Overexpression of ABCB1 transporter gene
+
+Observation:
+Potential reduced drug efficacy and increased drug resistance risk.
